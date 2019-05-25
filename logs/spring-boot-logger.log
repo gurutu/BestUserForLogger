@@ -1,0 +1,4 @@
+2019-05-25 12:35:47,798 DEBUG com.logger.controller.LoggingController [http-nio-8080-exec-2] A DEBUG Message ufsjvbdfs vubfsds vj dfs v sdfj hv jd dfjhjsufd h vhj sdjf sn jfd  jh sdf h jhfd hd h bhfsd
+2019-05-25 12:35:47,801 INFO com.logger.controller.LoggingController [http-nio-8080-exec-2] An INFO Message bjsffg
+2019-05-25 12:35:47,803 WARN com.logger.controller.LoggingController [http-nio-8080-exec-2] A WARN Message
+2019-05-25 12:35:47,804 ERROR com.logger.controller.LoggingController [http-nio-8080-exec-2] An ERROR Message
